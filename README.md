@@ -1,6 +1,6 @@
 # NestedGridView
 Nested GridView with CRUD functions.
-This is the database in Sql Server for this project. Database is called "Biblioteka". To run this database open Sql Server Managment Studio(My version is 2012), if you have Windows Authentication choose Windows or Sql Server Authentication if you have one, click Connect and after create a new database with right select of mouse with the name "Biblioteka".After creating "Biblioteka" right click choose New Query and then copy this code and after click Execute! in the bar menu . Code, copy it all :
+This is the database in Sql Server for this project. Database is called "Biblioteka". To run this database open Sql Server Managment Studio(My version is 2012), if you have Windows Authentication choose Windows or Sql Server Authentication if you have one, click Connect and after create a new database with right click to Databases with the name "Biblioteka".After creating "Biblioteka" right click choose New Query and then copy this code and after click Execute! in the bar menu . Code, copy it all :
 USE [master]
 GO
 /****** Object:  Database [Biblioteka]    Script Date: 6/12/2019 7:25:54 PM ******/
